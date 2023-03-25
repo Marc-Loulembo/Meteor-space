@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+#compte{
+    background: rgb(211, 104, 104);
+    color: black;
+    text-align: center;
+    height: 20px;
+}

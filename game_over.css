@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+body{
+    color: antiquewhite;
+    text-align: center;
+    margin: 10%;
+    background-image: url('./assets/stars.jpg');
+    
+}
+
+section{
+    padding: 10%;
+    border-radius: 10%;
+    background-color: rgba(137, 127, 127, 0.3);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(237, 230, 230);
+}
+
+div{
+    margin-top: 10%;
+
+}
